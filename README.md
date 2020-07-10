@@ -6,7 +6,9 @@ Version: 0.1.13 - 03/13/2019
 
 With the help of this expansion, the program "ConfigMgr client health" in the areas of evaluation and storage of the long-term data and reporting.  
 Make sure that ConfigMgr client health is already installed.  
-You can find the latest version of ConfigMgr Client Health ==> https://gallery.technet.microsoft.com/ConfigMgr-Client-Health-ccd00bd7
+You can find the latest version of ConfigMgr Client Health  
+==> <https://gallery.technet.microsoft.com/ConfigMgr-Client-Health-ccd00bd7>  
+==> <https://www.andersrodland.com/configmgr-client-health>/  
   
 &nbsp;
 &nbsp;
